@@ -1,0 +1,15 @@
+C:\Users\Don Amadeo\Desktop\Programación_propia\Bot_Telegram\Bot_Telegram_Amadeo\bin\Debug\net6.0\Bot_Telegram_Amadeo.exe
+C:\Users\Don Amadeo\Desktop\Programación_propia\Bot_Telegram\Bot_Telegram_Amadeo\bin\Debug\net6.0\Bot_Telegram_Amadeo.deps.json
+C:\Users\Don Amadeo\Desktop\Programación_propia\Bot_Telegram\Bot_Telegram_Amadeo\bin\Debug\net6.0\Bot_Telegram_Amadeo.runtimeconfig.json
+C:\Users\Don Amadeo\Desktop\Programación_propia\Bot_Telegram\Bot_Telegram_Amadeo\bin\Debug\net6.0\Bot_Telegram_Amadeo.dll
+C:\Users\Don Amadeo\Desktop\Programación_propia\Bot_Telegram\Bot_Telegram_Amadeo\bin\Debug\net6.0\Bot_Telegram_Amadeo.pdb
+C:\Users\Don Amadeo\Desktop\Programación_propia\Bot_Telegram\Bot_Telegram_Amadeo\obj\Debug\net6.0\Bot_Telegram_Amadeo.csproj.AssemblyReference.cache
+C:\Users\Don Amadeo\Desktop\Programación_propia\Bot_Telegram\Bot_Telegram_Amadeo\obj\Debug\net6.0\Bot_Telegram_Amadeo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Don Amadeo\Desktop\Programación_propia\Bot_Telegram\Bot_Telegram_Amadeo\obj\Debug\net6.0\Bot_Telegram_Amadeo.AssemblyInfoInputs.cache
+C:\Users\Don Amadeo\Desktop\Programación_propia\Bot_Telegram\Bot_Telegram_Amadeo\obj\Debug\net6.0\Bot_Telegram_Amadeo.AssemblyInfo.cs
+C:\Users\Don Amadeo\Desktop\Programación_propia\Bot_Telegram\Bot_Telegram_Amadeo\obj\Debug\net6.0\Bot_Telegram_Amadeo.csproj.CoreCompileInputs.cache
+C:\Users\Don Amadeo\Desktop\Programación_propia\Bot_Telegram\Bot_Telegram_Amadeo\obj\Debug\net6.0\Bot_Telegram_Amadeo.dll
+C:\Users\Don Amadeo\Desktop\Programación_propia\Bot_Telegram\Bot_Telegram_Amadeo\obj\Debug\net6.0\refint\Bot_Telegram_Amadeo.dll
+C:\Users\Don Amadeo\Desktop\Programación_propia\Bot_Telegram\Bot_Telegram_Amadeo\obj\Debug\net6.0\Bot_Telegram_Amadeo.pdb
+C:\Users\Don Amadeo\Desktop\Programación_propia\Bot_Telegram\Bot_Telegram_Amadeo\obj\Debug\net6.0\Bot_Telegram_Amadeo.genruntimeconfig.cache
+C:\Users\Don Amadeo\Desktop\Programación_propia\Bot_Telegram\Bot_Telegram_Amadeo\obj\Debug\net6.0\ref\Bot_Telegram_Amadeo.dll
